@@ -1,0 +1,462 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.high-font {
+    font-size: 24px;
+}
+
+.font-free{
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.btn-1 a {
+    text-decoration: none !important;
+    color: white;
+}
+
+
+.white {
+    color: white ;
+}
+
+.yellow {
+    color: #fca311;
+}
+.font-20{
+    font-size: 22px;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+.font-15 {
+    font-size: 15px;
+}
+.font-16 {
+    font-size: 18px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.josefin {
+    font-family: "Josefin Sans", sans-serif;
+}
+.funnel {
+    font-family: "Funnel Sans", sans-serif;
+}
+.nav-link {
+    color: white !important;
+}
+.navbar-brand  {
+    color: white !important;
+    font-size: 24px !important;
+}
+.dark-blue {
+    background-color:#0a0b4d;
+}
+.dark-bluee {
+    color: #074c72 !important;
+}
+.peach {
+    color: #ea5267;
+}
+
+.justify {
+   line-height: 30px;
+   word-spacing: 8px;
+   
+}
+.ws {
+    word-spacing: 10px;
+}
+
+.mon {
+ font-family: "Montserrat", sans-serif;;
+}
+
+.flexx {
+    display: flex;
+}
+
+.sm-block {
+    width:15%;
+    margin-top: 45px;
+
+}
+
+.margin-cus{
+    margin-top: 50px;
+}
+
+.prof {
+   
+background-color: #0a0d5a;
+}
+
+.summary {
+    width:80%;
+    margin: auto;
+}
+
+.ln-height {
+    line-height: 33px;
+}
+
+.btn-1 {
+    display: inline-block;
+    padding: 13.5px 45px;
+    background-color: #ea5267;
+    font-size: 14px;
+    color: #fff;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    text-transform: capitalize;
+    border: 1px solid transparent;
+}
+.footer-info {
+    width:80%;
+    margin: auto;
+}
+.responsibilities {
+    width: 80% ;
+    margin: auto;
+    line-height: 35px;
+}
+
+.responsibilities ul li {
+    list-style:initial;
+}
+
+.greyy {
+    color: grey;
+}
+
+
+
+@media (max-width:570px) {
+    
+    .navbar-brand  {
+        color: white !important;
+        font-size: 20px !important;
+    
+    }
+    
+
+.navbar-toggler:focus { 
+    box-shadow: none !important;
+}
+button.navbar-toggler {
+ border: 0.3px solid white;
+
+}
+.navbar-collapse  {
+    border: none !important;
+}
+
+
+.stylin {
+    word-spacing: 6px;
+    line-height: 30px;
+}
+
+
+.menu-bar {
+    background-color: #12145e !important;
+    margin: 0px !important;
+    color: white !important;
+
+}
+.home-page-start {
+    background-color: #12145e;
+    margin: 0px !important;
+    color: white;
+    text-align: center;
+}
+
+.padding-free {
+    padding: 100px 20px;
+
+}
+.col {
+    padding: 8px 0;
+}
+
+
+.image {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 2px solid white;
+margin: 20px auto;
+
+
+}
+
+img {
+    width: 100%;
+    border-radius: 100px;
+padding: 3px;
+}
+.sm-block {
+    width:28%;
+    margin-top: 35px;
+
+}
+.about-section .abt{
+    width: 95%;
+    margin: 0 auto ;
+}
+    
+.home-page-start .row {
+    padding: 110px 20px;
+
+}
+
+
+.font-free{
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.font-20{
+    font-size: 17px;
+}
+.exp-edu{
+    width: 95%;
+    margin: auto;
+}
+.card {
+        
+    width:90%;
+    border-left: 4px solid #fca311 !important;
+    margin: auto;
+  
+}
+.exp-edu{
+    width: 90%;
+    margin: auto;
+}
+
+.variable {
+    font-size: 14px;
+}
+
+.footer-info {
+    width:95%;
+    margin: auto;
+    text-align: center;
+}
+
+.center  {
+    text-align: center;
+}
+}
+
+
+@media (min-width:571px) and (max-width:1024px) {
+    
+    
+    .navbar-brand  {
+        color: white !important;
+    
+    }
+    .navbar-toggler:focus { 
+        box-shadow: none !important;
+    }
+    button.navbar-toggler {
+     border: 0.3px solid white;
+    
+    }
+    .navbar-collapse  {
+        border: none !important;
+    }
+    
+    
+    .stylin {
+        word-spacing: 6px;
+        line-height: 30px;
+    }
+    
+    
+    .menu-bar {
+        background-color: #12145e!important;
+        margin: 0px !important;
+        color: white !important;
+    
+    }
+    .home-page-start {
+        background-color: #12145e;
+        margin: 0px !important;
+        color: white;
+     
+    }
+
+    .high-font {
+        font-size: 28px;
+    }
+    
+    
+    .padding-free {
+        padding: 200px 20px;
+    
+    }
+   
+    .font-18 {
+        font-size: 17px;
+    }
+
+
+    
+    .image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid white;
+        float: right;
+    }
+
+    .info-content {
+        margin-top: 4%;
+      float: left !important;
+     
+  
+    }
+    
+    img {
+        width: 100%;
+        border-radius: 100px;
+        padding: 3px;
+    }
+    .pd {
+        float: right;
+    }
+        
+    .home-page-start .row {
+        padding: 120px 20px;
+    
+    }
+   
+
+   
+    .about-section .abt{
+        width: 93%;
+        margin: 0 auto ;
+    }
+
+    .exp-edu{
+        width: 80%;
+        margin: auto;
+    }
+    .card {
+        
+        width:90%;
+        border-left: 4px solid #fca311 !important;
+    }
+    
+    
+   
+    
+    }
+
+
+    
+@media (min-width:1024px) and (max-width:1500px) {
+    
+    
+    .navbar-brand  {
+        color: white !important;
+    
+    }
+    .navbar-toggler:focus { 
+        box-shadow: none !important;
+    }
+    button.navbar-toggler {
+     border: 0.3px solid white;
+    
+    }
+    .navbar-collapse  {
+        border: none !important;
+    }
+    .pd {
+        float: right;
+    }
+    
+    
+    .stylin {
+        word-spacing: 6px;
+        line-height: 30px;
+    }
+    
+    
+    .menu-bar {
+        background-color: #12145e !important;
+        margin: 0px !important;
+        color: white !important;
+    
+    }
+    .home-page-start {
+        background-color: #12145e;
+                margin: 0px !important;
+        color: white;
+     
+    }
+
+    .high-font {
+        font-size: 36px;
+    }
+    
+    
+    .home-page-start .row {
+        padding: 170px 20px;
+    
+    }
+   
+    .font-18 {
+        font-size: 22px;
+    }
+
+
+    
+    .image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px solid white;
+    transition: all 0.3s ease-in-out;
+    float: right;
+    }
+  
+    .info-content {
+        margin-top: 3%;
+      float: left !important;
+     
+  
+    }
+    
+    img {
+        width: 100%;
+        border-radius: 100px;
+        padding: 3px;
+    }
+    .about-section .abt{
+        width: 80%;
+        margin: 0 auto ;
+    }
+    .exp-edu{
+        width: 80%;
+        margin: auto;
+    }
+    .card {
+        
+        width:90%;
+        border-left: 4px solid #fca311 !important;
+    }
+   
+    
+    }
