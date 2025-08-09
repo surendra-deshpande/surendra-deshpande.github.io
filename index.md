@@ -19,7 +19,7 @@ title: "Home"
 ---
 
 ## 🛠 About Me
-I am a **Platform DevOps Engineer** with **9+ years of experience** building scalable, secure, and high-performance DevOps platforms.  
+I am a **Platform DevOps Engineer** with **10+ years of experience** building scalable, secure, and high-performance DevOps platforms.  
 My expertise spans **Kubernetes, AWS, Jenkins, Docker, Terraform, APISIX, and CI/CD pipelines** — with a proven track record of delivering platforms that improve developer productivity, reduce costs, and ensure compliance (PCI-DSS, SOC 2).
 
 I enjoy **platform engineering**, **infrastructure automation**, and **building self-service systems** that empower development teams.
