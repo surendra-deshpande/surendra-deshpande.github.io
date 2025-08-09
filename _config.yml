@@ -1,16 +1,7 @@
 title: "Surendrakumar Deshpande"
-description: "Platform DevOps Engineer | Kubernetes | AWS | CI/CD | Platform Engineering"
-baseurl: ""
-url: "https://surendra-deshpande.github.io"
-theme: minima
-
-author:
-  name: "Surendrakumar Deshpande"
-  email: "surendrakumardeshpande@gmail.com"
-
-# Social links
-linkedin_username: surendrakumardeshpande
+email: "surendrakumardeshpande@gmail.com"
+description: "Platform DevOps Engineer | Kubernetes | Cloud | CI/CD | Platform Engineering"
 github_username: surendra-deshpande
-
-# Build settings
+linkedin_username: surendrakumardeshpande
+theme: minima
 markdown: kramdown

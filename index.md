@@ -60,22 +60,22 @@ _Jul 2015 – Sep 2021_
 
 ## 🚀 Featured Projects
 
-### **APISIX API Gateway on Kubernetes**
+### **[APISIX API Gateway on Kubernetes](https://github.com/surendra-deshpande/apisix-standalone-gateway)**
 - Designed and implemented **APISIX** as the API gateway for a multi-team Kubernetes environment.
 - Built custom plugins for authentication & rate-limiting.
 - Integrated with **AWS ALB Ingress Controller** for cost optimization.
 
-### **SaltStack Automation for AWS**
+### **[SaltStack Automation for AWS]**
 - Deployed Salt Master on **Amazon EKS** to manage EC2 instances via custom AMIs.
 - Automated **IPv4-only cloud-init** configuration for EC2 instances using Salt states.
 - Built bootstrap scripts for auto-registration of EC2 minions.
 
-### **CI/CD Pipeline Modernization**
+### **[CI/CD Pipeline Modernization]**
 - Migrated legacy Jenkins jobs to **Jenkins Shared Libraries** for DRY pipeline code.
 - Added **GitOps (Flux)** integration for Kubernetes deployments.
 - Reduced build times by 35% using parallelized BuildKit-based pipelines.
 
-### **Packer-based AMI Factory**
+### **[Packer-based AMI Factory]**
 - Automated secure AMI builds embedding **PCI-DSS and SOC 2** baselines.
 - Integrated Packer builds with AWS Service Catalog for developer self-service.
 
@@ -115,5 +115,4 @@ _Jul 2015 – Sep 2021_
 
 ---
 
-> 💬 _"Building platforms is not just about technology — it's about empowering teams to deliver faster, safer, and smarter."_  
-— Surendrakumar Deshpande
+> 💬 _"Building platforms is not just about technology — it's about empowering teams to deliver faster, safer, and smarter."_
