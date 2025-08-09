@@ -1,7 +1,4 @@
 ---
-layout: default
-title: "Home"
----
 
 <div style="text-align:center; padding: 20px; background-color:#f9f9f9; border-radius: 10px; margin-bottom: 30px;">
   <h1 style="color:#007acc; font-size: 2.5em; margin-bottom: 10px;">Surendrakumar Deshpande</h1>
