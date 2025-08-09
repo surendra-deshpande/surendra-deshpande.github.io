@@ -3,12 +3,18 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Hi, I'm Surendrakumar Deshpande
-**Platform & DevOps Engineer | Kubernetes | AWS | CI/CD | Platform Engineering**
-
-📍 Belgaum, Karnataka, India  
-📧 [surendrakumardeshpande@gmail.com](mailto:surendrakumardeshpande@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/surendrakumardeshpande/) | [GitHub](https://github.com/surendra-deshpande) | [📄 Resume](assets/Surendrakumar_Deshpande.pdf)
+<div style="text-align:center; padding: 20px; background-color:#f9f9f9; border-radius: 10px; margin-bottom: 30px;">
+  <h1 style="color:#007acc; font-size: 2.5em; margin-bottom: 10px;">Surendrakumar Deshpande</h1>
+  <p style="font-size: 1.2em; color:#555;">
+    Platform DevOps Engineer | Kubernetes | AWS | CI/CD | Platform Engineering
+  </p>
+  <p style="margin-top: 15px;">
+    📧 <a href="mailto:surendrakumardeshpande@gmail.com">surendrakumardeshpande@gmail.com</a> |
+    <a href="https://github.com/surendra-deshpande">GitHub</a> |
+    <a href="https://www.linkedin.com/in/surendrakumardeshpande/">LinkedIn</a> |
+    <a href="assets/Surendrakumar_Deshpande.pdf">📄 Resume</a>
+  </p>
+</div>
 
 ---
 
@@ -30,34 +36,6 @@ I enjoy **platform engineering**, **infrastructure automation**, and **building 
 
 ---
 
-## 📂 Professional Experience
-
-### **Staff DevOps Engineer – Blackhawk Network (Remote, India)**  
-_Mar 2023 – Present_  
-- Built a **self-service developer platform** enabling teams to deploy/manage apps autonomously.  
-- Implemented **APISIX API Gateway** with authentication, rate-limiting, and Kubernetes integration.  
-- Reduced AWS costs by **40%** via spot instances and **20%** on ALB costs using ingress controllers.  
-- Created **custom AMIs with Packer** embedding pre-tested security baselines.  
-- Ensured PCI-DSS & SOC 2 compliance through infrastructure audits.
-
-### **Senior DevOps Engineer – Blackhawk Network (Remote, India)**  
-_Sep 2021 – Feb 2023_  
-- Integrated **DataDome & Signal Sciences** for advanced bot and attack protection.  
-- Automated infrastructure provisioning with Terraform (40% faster).  
-- Migrated 80% of apps to **Docker & Kubernetes**.  
-- Built self-service AWS Service Catalog products for application teams.
-
-### **Technical Architect – DevOps – In Time Tec (Bangalore, India)**  
-_Jul 2015 – Sep 2021_  
-- Migrated legacy apps to Kubernetes using **GitOps (Flux, Kustomize)**.  
-- Automated CI/CD for microservices with Jenkins & shared libraries.  
-- Reduced provisioning time by 60% via IaC automation.  
-- Configured ELK for centralized logging, improving incident response time.
-
----
-
----
-
 ## 🚀 Featured Projects
 
 ### **[APISIX API Gateway on Kubernetes](https://github.com/surendra-deshpande/apisix-standalone-gateway)**
@@ -65,21 +43,22 @@ _Jul 2015 – Sep 2021_
 - Built custom plugins for authentication & rate-limiting.
 - Integrated with **AWS ALB Ingress Controller** for cost optimization.
 
-### **[SaltStack Automation for AWS]**
+### **[SaltStack Automation for AWS](https://github.com/surendra-deshpande?tab=repositories&q=salt&type=&language=)**
 - Deployed Salt Master on **Amazon EKS** to manage EC2 instances via custom AMIs.
 - Automated **IPv4-only cloud-init** configuration for EC2 instances using Salt states.
 - Built bootstrap scripts for auto-registration of EC2 minions.
 
-### **[CI/CD Pipeline Modernization]**
+### **[CI/CD Pipeline Modernization](https://github.com/surendra-deshpande/Remote-Parametrized-Trigger)**
 - Migrated legacy Jenkins jobs to **Jenkins Shared Libraries** for DRY pipeline code.
 - Added **GitOps (Flux)** integration for Kubernetes deployments.
 - Reduced build times by 35% using parallelized BuildKit-based pipelines.
 
-### **[Packer-based AMI Factory]**
+### **[Packer-based AMI Factory](https://github.com/surendra-deshpande?tab=repositories&q=packer&type=&language=)**
 - Automated secure AMI builds embedding **PCI-DSS and SOC 2** baselines.
 - Integrated Packer builds with AWS Service Catalog for developer self-service.
 
 ---
+
 ## 🎓 Certifications
 ![CKA](https://images.credly.com/size/110x110/images/8e6b4b57-bd9e-46a2-8896-70b9f0e9b4a1/Certified_Kubernetes_Administrator.png)
 ![AWS SAA](https://images.credly.com/size/110x110/images/0b8f2d5f-bc42-4d0e-a3f2-918b9631f8b7/AWS-SolArchitect-Associate.png)
@@ -105,7 +84,6 @@ _Jul 2015 – Sep 2021_
 | **Monitoring** | ELK, EFK, Splunk, New Relic |
 | **Security**   | Signal Sciences, DataDome, Twistlock, Snyk |
 | **Soft Skills**| Planning, Problem-Solving, Teamwork |
-
 
 ---
 
