@@ -94,16 +94,18 @@ _Jul 2015 – Sep 2021_
 ---
 
 ## 📈 Skills Overview
-| Category | Skills |
-|----------|--------|
-| **Cloud** | AWS |
-| **CI/CD** | Jenkins, GitHub Actions, Azure DevOps |
+
+| Category       | Skills |
+|----------------|--------|
+| **Cloud**      | AWS |
+| **CI/CD**      | Jenkins, GitHub Actions, Azure DevOps |
 | **Containers** | Docker, Kubernetes, Helm |
-| **IaC** | Terraform, CloudFormation |
-| **Scripting** | Python, Bash, Groovy |
+| **IaC**        | Terraform, CloudFormation |
+| **Scripting**  | Python, Bash, Groovy |
 | **Monitoring** | ELK, EFK, Splunk, New Relic |
-| **Security** | Signal Sciences, DataDome, Twistlock, Snyk |
-| **Soft Skills** | Planning, Problem-Solving, Teamwork |
+| **Security**   | Signal Sciences, DataDome, Twistlock, Snyk |
+| **Soft Skills**| Planning, Problem-Solving, Teamwork |
+
 
 ---
 
