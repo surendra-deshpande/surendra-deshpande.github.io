@@ -1,4 +1,7 @@
 ---
+layout: default
+title: "Home"
+---
 
 <div style="text-align:center; padding: 20px; background-color:#f9f9f9; border-radius: 10px; margin-bottom: 30px;">
   <h1 style="color:#007acc; font-size: 2.5em; margin-bottom: 10px;">Surendrakumar Deshpande</h1>
@@ -17,7 +20,7 @@
 
 ## 🛠 About Me
 I am a **Platform DevOps Engineer** with **10+ years of experience** building scalable, secure, and high-performance DevOps platforms.  
-My expertise spans **Kubernetes, AWS, Jenkins, Docker, Terraform, Gateways, and CI/CD pipelines** — with a proven track record of delivering platforms that improve developer productivity, reduce costs, and ensure compliance (PCI-DSS, SOC 2).
+My expertise spans **Kubernetes, AWS, Jenkins, Docker, Terraform, APISIX, and CI/CD pipelines** — with a proven track record of delivering platforms that improve developer productivity, reduce costs, and ensure compliance (PCI-DSS, SOC 2).
 
 I enjoy **platform engineering**, **infrastructure automation**, and **building self-service systems** that empower development teams.
 
@@ -40,17 +43,17 @@ I enjoy **platform engineering**, **infrastructure automation**, and **building 
 - Built custom plugins for authentication & rate-limiting.
 - Integrated with **AWS ALB Ingress Controller** for cost optimization.
 
-### **[SaltStack Automation for AWS]**
+### **[SaltStack Automation for AWS](https://github.com/surendra-deshpande?tab=repositories&q=salt&type=&language=)**
 - Deployed Salt Master on **Amazon EKS** to manage EC2 instances via custom AMIs.
 - Automated **IPv4-only cloud-init** configuration for EC2 instances using Salt states.
 - Built bootstrap scripts for auto-registration of EC2 minions.
 
-### **[CI/CD Pipeline Modernization]**
+### **[CI/CD Pipeline Modernization](https://github.com/surendra-deshpande/Remote-Parametrized-Trigger)**
 - Migrated legacy Jenkins jobs to **Jenkins Shared Libraries** for DRY pipeline code.
 - Added **GitOps (Flux)** integration for Kubernetes deployments.
 - Reduced build times by 35% using parallelized BuildKit-based pipelines.
 
-### **[Packer-based AMI Factory]**
+### **[Packer-based AMI Factory](https://github.com/surendra-deshpande?tab=repositories&q=packer&type=&language=)**
 - Automated secure AMI builds embedding **PCI-DSS and SOC 2** baselines.
 - Integrated Packer builds with AWS Service Catalog for developer self-service.
 
